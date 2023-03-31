@@ -41,3 +41,11 @@ C:\Users\gpnet\Documents\CSharp\Recaptcha5\Recaptcha5\obj\Debug\net5.0\refint\Re
 C:\Users\gpnet\Documents\CSharp\Recaptcha5\Recaptcha5\obj\Debug\net5.0\Recaptcha5.pdb
 C:\Users\gpnet\Documents\CSharp\Recaptcha5\Recaptcha5\obj\Debug\net5.0\Recaptcha5.genruntimeconfig.cache
 C:\Users\gpnet\Documents\CSharp\Recaptcha5\Recaptcha5\obj\Debug\net5.0\ref\Recaptcha5.dll
+C:\Users\gpnet\Documents\CSharp\Recaptcha5\Recaptcha5\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\gpnet\Documents\CSharp\Recaptcha5\Recaptcha5\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\gpnet\Documents\CSharp\Recaptcha5\Recaptcha5\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\gpnet\Documents\CSharp\Recaptcha5\Recaptcha5\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\gpnet\Documents\CSharp\Recaptcha5\Recaptcha5\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\gpnet\Documents\CSharp\Recaptcha5\Recaptcha5\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\gpnet\Documents\CSharp\Recaptcha5\Recaptcha5\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\gpnet\Documents\CSharp\Recaptcha5\Recaptcha5\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll

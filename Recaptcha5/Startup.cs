@@ -23,6 +23,7 @@ namespace Recaptcha5
             {
                 o.InstanceName = "id_";
                 o.Configuration = "oregon-redis.render.com:6379,user=red-cgjjjgjhp8u4muavbfug,password=ayOVYqJqInoRhwVmYIJsF1UtUYdr72Uc,ssl=True";
+                
             });
             services.AddControllers();
             services.AddSwaggerGen(c =>
